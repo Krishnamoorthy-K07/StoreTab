@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "STORE-TAB",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "description":"This extenstion is used to store the tab links which you want to store."
+}
